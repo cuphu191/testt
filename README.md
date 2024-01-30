@@ -6,4 +6,5 @@
   Berapa ceweknya joaquin
 </p>
 <a href="./ntah.html">Tidak ada</a>
+<br />
 <a href="./lwk.html">Banyak</a>
